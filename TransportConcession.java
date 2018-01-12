@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TransportConsession {
+public class TransportConcession {
     public static void main(String[] args) {
         System.out.print("Choose the type of monthly pass\n1 - Primary Student\n2 - Seccondary Student\n3 - Polytechnic Student" +
                 "\n4 - University Student\n5 - Full-Time National Serviceman\n6 - Adult\n7 - Senior Citizen"
